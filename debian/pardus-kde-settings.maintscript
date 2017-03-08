@@ -1,0 +1,9 @@
+rm_conffile /etc/xdg/pardus/homerunrc
+rm_conffile /etc/xdg/pardus/kdebugrc
+rm_conffile /etc/xdg/pardus/kdeglobals
+rm_conffile /etc/xdg/pardus/kmailrc
+rm_conffile /etc/xdg/pardus/kscreenlockerrc
+rm_conffile /etc/xdg/pardus/ksplashrc
+rm_conffile /etc/xdg/pardus/plasmarc
+rm_conffile /usr/share/lightdm/lightdm-gtk-greeter.conf.d/40-pardus-kde.conf
+rm_conffile /usr/share/lightdm/lightdm.conf.d/40-pardus-kde.conf

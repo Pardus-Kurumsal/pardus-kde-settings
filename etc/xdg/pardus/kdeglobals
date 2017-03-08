@@ -1,0 +1,7 @@
+[Icons]
+Theme=pardus-kde-icon-theme
+
+[KDE]
+ColorScheme=Breeze
+LookAndFeelPackage=org.kde.pardus
+widgetStyle=Breeze
