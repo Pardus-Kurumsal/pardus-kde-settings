@@ -1,3 +1,9 @@
+pardus-kde-settings (2017.3) pardus; urgency=medium
+
+  * Add greybird theme dependency for lightdm greeter settings
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 08 Mar 2017 15:45:20 +0300
+
 pardus-kde-settings (2017.2) pardus; urgency=medium
 
   * Update changelog for 2017.1 release
