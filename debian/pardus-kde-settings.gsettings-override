@@ -1,0 +1,3 @@
+[org.gnome.desktop.interface]
+gtk-theme='Breeze'
+icon-theme='pardus-kde-icon-theme'
